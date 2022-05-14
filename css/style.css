@@ -1,6 +1,7 @@
 body {
-  background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+  background-image: url("../images/Caffee.jpg") ;
   font-family: sans-serif;
+  background-size: cover;
 }
 h1, h2, p {
   text-align: center;
