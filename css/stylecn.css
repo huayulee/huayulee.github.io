@@ -1,0 +1,76 @@
+body {
+    background-image: url("../images/Caffee.jpg");
+    background-size: contain;
+    padding: 20px;
+}
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+h1, h2, p {
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+h2 {
+    font-size: 30px;
+}
+.menu {
+    width: 80%;
+    background-color: burlywood;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+.item p {
+    display: inline-block;
+    margin: 5px 0;
+    font-size: 18px;
+}
+
+.flavor, .dessert {
+    width: 75%;
+    text-align: left;
+}
+
+.price {
+    width: 25%;
+    text-align: right;
+}
+
+img {
+    display: block;
+    margin: -25px auto 0 auto;
+}
+.established {
+    font-style: italic;
+}
+/*FOOTER*/
+footer {
+    font-size: 14px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: brown;
+}
+
+a:active {
+    color: white;
+}
+
+.address{
+    margin-bottom: 5px;
+}
